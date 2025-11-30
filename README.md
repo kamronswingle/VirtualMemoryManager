@@ -90,6 +90,10 @@ Virtual address: 45563 Physical address: 6395 Value: 126
 
 Virtual address: 12107 Physical address: 6475 Value: -46
 
+Statistics:
+
+-----------------
+
 TLB hits = 55
 
 TLB hit rate = 5.50%
